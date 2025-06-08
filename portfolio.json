@@ -134,26 +134,26 @@
   ],
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
+      "institution": "Stevens Institute of Technology",
+      "location": "Hoboken, NJ, US",
+      "url": "https://www.stevens.edu/",
       "degrees": [
         "Master of Science in Computer Science",
-        "Minor in Mathematics"
+        "Major in Data System"
       ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
+      "honors": [""],
+      "gpa_cumulative": "3.6",
       "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
+      "graduation_date": "May/2016"
     },
     {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
+      "institution": "Taiyuan University of Technology",
+      "location": "Taiyuan, Shanxi, China",
+      "url": "https://english.tyut.edu.cn/",
+      "degrees": ["Bachelor of Science in Software Engineering"],
       "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
+      "gpa_cumulative": "3.55",
+      "gpa_major": "4.0",
       "graduation_date": "01/01/2000"
     }
   ],
