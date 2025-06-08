@@ -1,11 +1,11 @@
 {
   "name": "Jacob Xi",
   "label": "Senior DevOps Engineer/Cloud Engineer",
-  "image_path": "img/professional.png",
+  "image_path": "img/professonal.png",
   "contact": {
     "email": "xichao_2015@outlook.com",
     "phone": "(086)130xxxxxxx",
-    "location": "ShangHai China"
+    "location": "Shanghai China"
   },
   "summary": "AWS Solutions Architect, Azure Solution Expert(AZ305), Certified Gitlab CI/CD Engineer, Istio Administrator",
   "base_url": "127.0.0.1:5500",
